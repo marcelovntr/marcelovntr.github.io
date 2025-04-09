@@ -1,10 +1,3 @@
-
-
-    HTML CSS JS 
-
-    Result
-    Skip Results Iframe
-
 // script.js
 
 /* 
